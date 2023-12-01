@@ -13,7 +13,7 @@
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-     "homepage": "https://<your-username>.github.io"
+     "homepage": "https://ahmedpashafaisal.github.io"
    ```
 
 7. Now, create a new empty repository named \<your-username>.github.io and leave it there.
@@ -22,7 +22,7 @@
 
    ```js
    const repoURL =
-     "https://github.com/<your-username>/<your-username>.github.io.git";
+     "https://github.com/ahmedpashafaisal/ahmedpashafaisal.github.io.git";
    ```
 
 9. To deploy website, run:
